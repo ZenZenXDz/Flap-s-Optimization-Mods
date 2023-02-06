@@ -16,7 +16,9 @@
 - Radon
 - Smooth Booth```
 # 1.18+:
+
 ## Forge:
+
 - Rubidium + Extra
 - FerriteCore
 - Canary
@@ -26,4 +28,5 @@
 - Pluto
 - Smooth Booth Reloaded
 ## Fabric:
+
 Fabulously Optimized Modpack
