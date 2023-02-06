@@ -1,7 +1,7 @@
 # Flap's Optimization Mods - Config
 ```Flap's Optimization```
 **1.12**:
-```- Optifine
+``` - Optifine
 - LoliASM (CensoredASM - Incompatible with VanillaFix)
 - MixinBooter
 - BetterFPS
